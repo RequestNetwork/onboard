@@ -4,12 +4,12 @@ JavaScript library to easily onboard users to ethereum apps by enabling wallet s
 
 ## Install
 
-`npm install bnc-onboard`
+`npm install @requestnetwork/onboard-extra`
 
 ## Quick Start
 
 ```javascript
-import Onboard from 'bnc-onboard'
+import Onboard from '@requestnetwork/onboard-extra'
 import Web3 from 'web3'
 
 // set a variable to store instantiated web3
